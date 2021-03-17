@@ -1,0 +1,41 @@
+Conclusiones.
+
+Humberto Tamayo 
+
+	Durante esta práctica trabajamos con más de un puerto para crear un juego, el de Whack a Mole, para esto tuvimos que
+  aplicar conceptos de programación relativamente sencillos como IF statements, cases, whiles, for loops; sin embargo
+  esto lo aplicamos a un lenguaje de programación donde no estamos tan familiarizados como lo es C. Empezar a programar
+  no fue complejo ya que utilizamos los conocimientos que ya teníamos y solo tuvimos que buscar la sintaxis en C, además
+  de que se dió que justo vimos un poco de la sintaxis en la clase teórica. 
+
+	Uno de los problemas que tuvimos fue el que intentamos utilizar operaciones de Bit a Bit pero pero por alguna razón no
+  funcionaba, modificamos esto y en la asesoría modificamos el código para trabajar utilizando el número dos y sus
+  potencias y se resolvió nuestro problema. En lo personal puedo concluir que se logró realizar de forma satisfactoria y
+  que pude aprender sobre la sintaxis de un lenguaje por lo que la considero muy importante, programar a mi me gusta mucho
+  por lo que por espero que las prácticas me permitan seguir aprendiendo y avanzando en la programación con el lenguaje C. 
+
+Carlos Ayala:
+
+	Personalmente esta práctica se me hizo bastante difícil, ya que en mi caso nunca había visto un lenguaje de programación
+  como tal y apenas en las clase de microcontroladores, el profesor Procopio nos introduje a C. Lo que se necesitaba hacer
+  en esta práctica era tener un arreglo de leds y que se fueron prendiendo aleatoriamente y cuando se acertara el botón
+  correspondiente del led cuando estuviera prendido hiciera una rutina de que acertarás. Para poder solucionar el problema
+  tuvimos que usar ciertos comandos de c los cuales fueron IF, cases while, for loops etc. Los cuales para mi equipo no
+  fueron tan complicados, más para mi fue algo nuevo.
+
+	El problema que tuvimos, que solucionamos en la asesoría, fue que en las operaciones de Bit a Bit no funcionaban. Por ello
+  el profesor nos recomendó utilizar la potencia de dos para poder seleccionar el led requerido. Aunque fue algo complejo
+  para mi yo creo que se logró hacer el proyecto y aprender lo requerido para poder seguir avanzando.
+
+Mauricio Toache:
+
+	La práctica consistió en la recreación de un juego de Wack a Mole con LEDs y botones. A simple vista, la lógica del
+  programa, y su estructura eran muy sencillos y pude pensar en cómo funcionan casi de inmediato, el problema surgió en el
+  lenguaje, personalmente, me siento cómodo programando en C++ y Python, por lo que trabajar con un idioma nuevo ( a pesar
+  de ser la base de los anteriores) sigue representando una dificultad, aumentada más por la falta de conocimiento de
+  protocolos de comunicación y nomenclatura de los puertos y llamados.
+	
+	Además el no tener la tarjeta físicamente limita mucho el proceso de prueba y error, ya que no se puede estar probando a
+  cada rato. Ya una vez investigué y comprendí más como funcionaba el lenguaje, como su comunicación con la tarjeta se me
+  hizo sencilla la práctica, además de que aprendí mucho y me sentiré más cómodo para las siguientes prácticas, igual la
+  asesoría del profesor ayudó a resolver las únicas dudas que surgieron. 
